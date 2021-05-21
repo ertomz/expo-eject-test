@@ -1,0 +1,12 @@
+com/sanomind/test2/BuildConfig.java
+ com.sanomind.test2.BuildConfig
+com/sanomind/test2/generated/BasePackageList.java
+ com.sanomind.test2.generated.BasePackageList
+com/sanomind/test2/MainApplication.java
+ com.sanomind.test2.MainApplication
+ com.sanomind.test2.MainApplication$1
+com/sanomind/test2/MainActivity.java
+ com.sanomind.test2.MainActivity
+ com.sanomind.test2.MainActivity$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
