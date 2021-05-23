@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
 import { Audio, Video } from 'expo-av';
 
+import TrackPlayer from 'react-native-track-player';
+
 export default function App() {
 
   const [sound, setSound] = useState(null);
